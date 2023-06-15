@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SelwynAng
 - 👀 I’m interested in pretty much anything that can make things more efficient and beneficial for everyone
-- 🌱 I’m currently learning web development and data analytics on the side...
+- 🌱 I’m currently learning web development and cybersecurity on the side...
 - 📫 Reach me at selwynang.01@gmail.com
 
 <!---
