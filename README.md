@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SelwynAng
-- 👀 I’m interested in pretty much anything that can make things more efficient and beneficial for everyone
-- 🌱 I’m currently into full-stack development and learning cybersecurity on the side...
+- 🌱 I'm interested in the theorectical underpinnings of cybersecurity and currently learning penetration testing skills on the side
 - 📫 Reach me at selwynang.01@gmail.com
   
 
